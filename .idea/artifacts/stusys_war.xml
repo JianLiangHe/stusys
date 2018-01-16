@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="stusys:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="stusys.war">
+      <element id="artifact" artifact-name="stusys:war exploded" />
+    </root>
+  </artifact>
+</component>
